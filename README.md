@@ -1,1 +1,1 @@
-# Patrones-Dise-o-JavaScript
+# Patrones-Diseño-JavaScript
