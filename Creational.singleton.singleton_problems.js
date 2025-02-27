@@ -53,7 +53,7 @@ class SingletonRecordFinder
 
 class ConfigurableRecordFinder
 {
-    constructor(database)
+    constructor(database = new MyDatabase())
     {
         this.database = database;
     }
